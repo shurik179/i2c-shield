@@ -7,3 +7,6 @@
 
  Pull-up resistors can be disconnected by breaking the solder bridge next to
  them using a sharp knife or a similar tool.
+
+
+![](I2C_SHIELD.png)
