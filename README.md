@@ -9,4 +9,7 @@
  them using a sharp knife or a similar tool.
 
 
+The board is designed in KiCad 6.0  RC1. 
+
+
 ![](I2C_SHIELD.png)
